@@ -53,7 +53,7 @@ while passing: # to accept input of the student's marks since I don't have store
     else:
         continue
 
-
+# linking pycharm to GitHub took the time and then the lights went out
 
 
 
